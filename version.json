@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.0.1",
-    "installer_url": "https://github.com/InnovatedTowerSolutions/ITSReportGenerator/releases/download/v1.0.1/ITS_Report_Generator_Setup.exe",
-    "sha256": "edfc7216606561302470f418fd692cd811ee05ba08fcada091b97687210a51bd"
+    "latest_version": "1.0.2",
+    "installer_url": "https://github.com/InnovatedTowerSolutions/ITSReportGenerator/releases/download/v1.0.2/ITS_Report_Generator_Setup.exe",
+    "sha256": "981f969bab4a42abc49333bf34926b905f95f3c172c79361582a884487f267d8"
 }
